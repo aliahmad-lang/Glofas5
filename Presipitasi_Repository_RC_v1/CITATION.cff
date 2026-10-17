@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Data-Center Water-Demand Exposure under Low-Flow Stress: Analysis Code and Derived Outputs"
+message: "Cite the associated Jurnal Presipitasi article and this repository release when using the code or derived outputs."
+type: software
+authors:
+  - family-names: Ahmad
+    given-names: Ali
+  - family-names: Abd Rahim
+    given-names: Noor Hayani Binti
+keywords:
+  - GloFAS
+  - hydrological stress
+  - data center
+  - water demand
+  - Johor
+  - reproducibility
+repository-code: "REPLACE_AFTER_PUBLICATION"
+license: "MIT"
